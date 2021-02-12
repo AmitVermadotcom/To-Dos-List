@@ -1,0 +1,12 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand img{
+width: 50px;
+height: 50px;
+border-radius: 30px;
+}
+.container{
+    box-shadow: 2px 3px 4px 5px whitesmoke;
+}
